@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookshelf>
+    <book edition="1">
+        <title>Los pilares de la tierra</title>
+        <authors>
+            <author>Ken Follet</author>
+        </authors>
+        <isbn>8499086519</isbn>
+        <dimensions width="12.7cm" height="19.05cm" depth="3.81cm" pages="1040"/>
+    </book>
+    <book edition="1">
+        <title>Un mundo sin fin</title>
+        <authors>
+            <author>Ken Follet</author>
+        </authors>
+        <isbn>8499893732</isbn>
+        <dimensions width="12.5cm" height="19cm" depth="4.4cm" pages="1184"/>
+    </book>
+    <book edition="1">
+        <title>Una columna de fuego</title>
+        <authors>
+            <author>Ken Follet</author>
+        </authors>
+        <isbn>8466351051</isbn>
+        <dimensions width="12.5cm" height="3.6cm" depth="19cm" pages="944"/>
+    </book>
+    <book edition="1">
+        <title>La colmena</title>
+        <authors>
+            <author>Camilo José Cela</author>
+        </authors>
+        <isbn>8466349332</isbn>
+        <dimensions width="12.47cm" height="19cm" depth="1.98cm" pages="368"/>
+    </book>
+    <book edition="6">
+        <title>Relato de un náufrago</title>
+        <authors>
+            <author>Gabriel García Márquez</author>
+        </authors>
+        <isbn>8490323763</isbn>
+        <dimensions width="15cm" height="21cm" depth="2.2cm" pages="176"/>
+    </book>
+    <book edition="1">
+        <title>Fabulas de Esopo</title>
+        <authors>
+            <author>Jesús Jímenez Reinaldo</author>
+            <author>Jerry Pinkney</author>
+        </authors>
+        <isbn>8431671645</isbn>
+        <dimensions width="15.88cm" height="22.86cm" depth="0.64cm" pages="127"/>
+    </book>
+    <book edition="36">
+        <title>El principito</title>
+        <authors>
+            <author>Antoine de Saint-Exupéry</author>
+        </authors>
+        <isbn>8498381495</isbn>
+        <dimensions width="11.43cm" height="18.03cm" depth="0.51cm" pages="96"/>
+    </book>
+</bookshelf>
